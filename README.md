@@ -1,10 +1,10 @@
-**ATM Management Interface**
+# ATM Management Interface
 
 ATM Management Interface is Java-based command-line application that simulates the functionalities of an ATM machine. It allows users to perform various banking actions such as checking account balances, withdrawing funds, depositing funds, and transferring funds between accounts.
 
 
 
-**Features**
+## Features
 
 * User-Friendly Interface: The application provides an intuitive and user-friendly interface for a seamless banking experience.
 * Account Actions: Users can perform essential account actions, including checking balances, withdrawing funds, depositing funds, and transferring funds between accounts.
@@ -15,7 +15,7 @@ ATM Management Interface is Java-based command-line application that simulates t
 
 
 
-**Getting Started**
+## Getting Started
 
 To run the ATM Management Interface locally on your machine, follow these steps:
 1. Clone the repository:
@@ -37,7 +37,7 @@ To run the ATM Management Interface locally on your machine, follow these steps:
 
 
 
-**Usage**
+## Usage
 
 1. Launch the application by running the ATM class.
 2. Follow the on-screen prompts to interact with the ATM interface.
@@ -49,7 +49,7 @@ To run the ATM Management Interface locally on your machine, follow these steps:
 
 
 
-**Future Improvements**
+## Future Improvements
 
 As the ATM Management Interface progresses, the following features will be implemented to enhance its functionality and user experience:
 * Database Integration: Integrate the application with a database system for persistent storage of user accounts and transactions.
@@ -59,7 +59,7 @@ As the ATM Management Interface progresses, the following features will be imple
 
 
 
-**Technologies Used**
+## Technologies Used
 
 * Java
 * Object-Oriented Programming (OOP)
